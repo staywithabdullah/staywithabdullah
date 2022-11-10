@@ -2,7 +2,7 @@
 ## Abdullah
 
 
-BsCSE, United International University
+BsCSE, <a href="https://www.uiu.ac.bd/"> United International University</a>
 
 
 Skills: HTML / CSS / C .
