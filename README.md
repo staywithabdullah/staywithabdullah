@@ -6,7 +6,7 @@
 BsCSE, <a href="https://www.uiu.ac.bd/"> United International University</a><br>
 
 
-Skills: HTML / CSS / C .
+Skills: HTML / CSS / C / Java.
 
 
 
