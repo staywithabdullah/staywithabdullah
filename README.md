@@ -6,9 +6,9 @@
 <b>Head of Event Management<b> at <a href="https://www.facebook.com/uiuappf"> UIU APP FORUM</a><br>
 BsCSE, <a href="https://www.uiu.ac.bd/"> United International University</a><br>
 
-
-Web Technologies: HTML5, CSS3
-Programming Languages: C/C++, Java.
+<br><br>
+Web Technologies: HTML5, CSS3<br>
+Programming Languages: C/C++, Java.<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/staywithabdullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/staywithabdullah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/staywithabdullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/staywithabdullah/)  
 
