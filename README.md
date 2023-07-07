@@ -2,38 +2,13 @@
 ## Abdullah
 
 
-Hello good people! I’m Abdullah Al Masud Bhuiyan from Bangladesh. I’m a Tech Enthusiast. Currently, I’m pursuing my Bachelor's Degree in Computer Science & Engineering(CSE) from one of the leading university in Bangladesh. I want to see my career in IT Industry as a Web Application Developer/Software Developer. I’m very much passionate about web programming and I also acquiring knowledge on it to enhance my skills next level.
-
-Web Technologies: HTML5, CSS3
-Programming Languages: C/C++, Java
-
-Areas I'm interested to work in:
- -Web Application Development
- -Digital Marketing
-
-GitHub: https://github.com/staywithabdullah
-Facebook: https://www.facebook.com/staywithabdullah
-
-I can be reached by-
-e-mail: masudbuiyan50@gmail.com
-
 <b>Grader </b>at  <a href="https://www.uiu.ac.bd/"> United International University</a> <br>
 <b>Head of Event Management<b> at <a href="https://www.facebook.com/uiuappf"> UIU APP FORUM</a><br>
 BsCSE, <a href="https://www.uiu.ac.bd/"> United International University</a><br>
 
 
-//Skills: HTML / CSS / C / Java.
-
-
-
-
-
-
-
-
-
-
-
+Web Technologies: HTML5, CSS3
+Programming Languages: C/C++, Java.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/staywithabdullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/staywithabdullah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/staywithabdullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/staywithabdullah/)  
 
