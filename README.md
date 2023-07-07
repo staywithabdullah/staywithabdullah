@@ -1,12 +1,28 @@
 ![](https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/46995981_257047434967011_5504417171586940928_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFPPj3Sxq17txtMbR0KFVFkiiHQYT8iN8KKIdBhPyI3wlaTTcOzUS3c0Ea6uFFdWcOw6gdTacgeEuP3BUnAQdiq&_nc_ohc=KfFpH67YjtUAX_c7E_C&tn=4g9a8LxcforAF7KI&_nc_ht=scontent.fdac24-1.fna&oh=00_AT91XyvIkF8c5lsVPlagAIEca8tJ8JyAPuX5bMbCSMyizw&oe=620BB5A3)
 ## Abdullah
 
+
+Hello good people! I’m Abdullah Al Masud Bhuiyan from Bangladesh. I’m a Tech Enthusiast. Currently, I’m pursuing my Bachelor's Degree in Computer Science & Engineering(CSE) from one of the leading university in Bangladesh. I want to see my career in IT Industry as a Web Application Developer/Software Developer. I’m very much passionate about web programming and I also acquiring knowledge on it to enhance my skills next level.
+
+Web Technologies: HTML5, CSS3
+Programming Languages: C/C++, Java
+
+Areas I'm interested to work in:
+ -Web Application Development
+ -Digital Marketing
+
+GitHub: https://github.com/staywithabdullah
+Facebook: https://www.facebook.com/staywithabdullah
+
+I can be reached by-
+e-mail: masudbuiyan50@gmail.com
+
 <b>Grader </b>at  <a href="https://www.uiu.ac.bd/"> United International University</a> <br>
 <b>Head of Event Management<b> at <a href="https://www.facebook.com/uiuappf"> UIU APP FORUM</a><br>
 BsCSE, <a href="https://www.uiu.ac.bd/"> United International University</a><br>
 
 
-Skills: HTML / CSS / C / Java.
+//Skills: HTML / CSS / C / Java.
 
 
 
