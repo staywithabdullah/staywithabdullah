@@ -2,7 +2,7 @@
 ## Abdullah
 
 <b>Grader </b>at  <a href="https://www.uiu.ac.bd/"> United International University</a> <br>
-<b>Junior Executive<b> at <a href="https://www.facebook.com/uiuappf"> UIU APP FORUM</a><br>
+<b>Head of Event Management<b> at <a href="https://www.facebook.com/uiuappf"> UIU APP FORUM</a><br>
 BsCSE, <a href="https://www.uiu.ac.bd/"> United International University</a><br>
 
 
@@ -23,4 +23,3 @@ Skills: HTML / CSS / C / Java.
 
 
 
-![Profile views](https://gpvc.arturio.dev/staywithabdullah)  
